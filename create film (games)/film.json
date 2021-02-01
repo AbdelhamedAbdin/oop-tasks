@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "genre": "series",
+            "style": "drama",
+            "name": "lucifer",
+            "count_letters": "7",
+            "author": null,
+            "about": null
+        },
+        {
+            "genre": "series",
+            "style": "action",
+            "name": "arrow",
+            "count_letters": "5",
+            "author": null,
+            "about": null
+        },
+        {
+            "genre": "film",
+            "style": "action",
+            "name": "fast and furious",
+            "count_letters": "16",
+            "author": null,
+            "about": null
+        }
+    ]
+}
